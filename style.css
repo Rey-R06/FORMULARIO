@@ -1,0 +1,30 @@
+.fondo{
+    background-image: url(./multi/large-triangles.png);
+   
+}
+.form{
+    padding-top: 20px;
+}
+.bordeform{
+    width: 600px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 250px;
+    box-shadow: 7px 13px 37px rgb(42, 89, 177);
+    background-color: aliceblue;
+}
+
+.boton{
+    display: inline-flex;
+   
+    padding-left: 35%;
+}
+.botonr{
+    display: inline-flex;
+    padding-left: 2%;
+    
+}
+.titulo{
+    margin: auto;
+    padding-left: 20%;
+}
